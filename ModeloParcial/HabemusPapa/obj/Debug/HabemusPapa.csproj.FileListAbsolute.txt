@@ -1,0 +1,6 @@
+c:\users\alumno\documents\visual studio 2012\Projects\ModeloParcial\HabemusPapa\bin\Debug\HabemusPapa.exe.config
+c:\users\alumno\documents\visual studio 2012\Projects\ModeloParcial\HabemusPapa\obj\Debug\HabemusPapa.csprojResolveAssemblyReference.cache
+c:\users\alumno\documents\visual studio 2012\Projects\ModeloParcial\HabemusPapa\bin\Debug\HabemusPapa.exe
+c:\users\alumno\documents\visual studio 2012\Projects\ModeloParcial\HabemusPapa\bin\Debug\HabemusPapa.pdb
+c:\users\alumno\documents\visual studio 2012\Projects\ModeloParcial\HabemusPapa\obj\Debug\HabemusPapa.exe
+c:\users\alumno\documents\visual studio 2012\Projects\ModeloParcial\HabemusPapa\obj\Debug\HabemusPapa.pdb
