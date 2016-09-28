@@ -97,9 +97,13 @@ namespace HabemusPapa
 
         public static void VotarPapa(Conclave unConclave)
         {
-            int indicePapal = randomVotos.Next(0, unConclave._cardenales.Count);
+            int indicePapal;
 
-            unConclave._cardenales[indicePapal]++;
+            for (int i = 0; i < unConclave._cardenales.Count ; i++)
+            {
+                indicePapal = randomVotos.Next(0, unConclave._cardenales.Count);
+                unConclave._cardenales[indicePapal]++;
+            }
 
             Conclave.ContarVotos(unConclave);
         }
